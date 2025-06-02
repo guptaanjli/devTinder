@@ -1,0 +1,22 @@
+{
+  "name": "namaste-node",
+  "version": "1.0.0",
+  "description": "learn node",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "dev":"nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "na"
+  ],
+  "author": "anjli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
